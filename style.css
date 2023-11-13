@@ -28,6 +28,7 @@ h1 {
 .subtitulo-1 {
     font-size: 40 px;
     color: rgb(173,216,230);
+    text-align: center;
 }
 
 .listas {
@@ -37,5 +38,5 @@ h1 {
 .imagem-2{
     width: 25%;
     align-items: center;
-    margin-left: 500px;
+    margin-left: 550px;
 }

@@ -1,0 +1,39 @@
+header{
+    background-color: rgb(70,130,180);
+    color:white;
+}
+
+.imagem-1{
+    width: 50 px;
+    align-items: center;
+}
+
+
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 40 px;
+    color: rgb(173,216,230);
+}
+
+.paragrafo-1 {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.subtitulo-1 {
+    font-size: 40 px;
+    color: rgb(173,216,230);
+}
+
+.listas {
+    color:white;
+}
+
+.imagem-2{
+    width: 50 px;
+    align-items: center;
+}

@@ -41,3 +41,9 @@ h1 {
     align-items: center;
     margin-left: 400px;
 }
+
+footer {
+    background-color:  rgb(70,130,180);
+    color: black;
+    text-align: center;
+}

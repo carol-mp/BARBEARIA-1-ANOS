@@ -3,24 +3,34 @@ header{
     color:white;
 }
 
+.listas-1{
+    color:white;
+    text-align: center;
+}
+
 .imagem-1{
     width: 25%;
     align-items: center;
 }
 
-
 body {
     background-color: black;
 }
 
-h1 {
+.titulo-1 {
     font-size: 40 px;
-    color: rgb(173,216,230);
+    color: white;
     text-align: center;
 }
 
 .paragrafo-1 {
     font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.titulo-2 {
+    font-size: 40 px;
     color: white;
     text-align: center;
 }
@@ -31,7 +41,7 @@ h1 {
     text-align: center;
 }
 
-.listas {
+.listas-2 {
     color:white;
     text-align: center;
 }
